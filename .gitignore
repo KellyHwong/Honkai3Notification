@@ -1,7 +1,10 @@
-Jupyter Notebook files
+# HTML
+*.html
+
+# Jupyter Notebook files
 *.ipynb
 
-Personal files
+# Personal files
 *hk*
 # Byte-compiled / optimized / DLL files
 __pycache__/
